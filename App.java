@@ -10,9 +10,8 @@ public class App{
         //fixed code formatting issues
         //etc.
         System.out.println("More progress towards implementing task #123");
-        /*added more unstable code...*/
-                /*added code that does not follow the team style guides...*/
-            /*added System.out.println debug statements...*/
-        /*the text in these block comments will have to be removed in future commits*/
+        //updated comments / documentation
+        //final touches and cleanup
+        System.out.println("Completed the implementation of task #123");
     }
 }
